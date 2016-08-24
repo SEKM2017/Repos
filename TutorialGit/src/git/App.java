@@ -6,7 +6,7 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("Hello meine Studenten");
 
-		System.out.println("Hello REWE Portal  ");
+		System.out.println("Hello REWE Portal für MA");
 
 	}
 
