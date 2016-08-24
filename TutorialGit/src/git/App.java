@@ -6,7 +6,7 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("Hello meine Studenten");
 
-		System.out.println("Ci-Admin Projekt muss fertig gemacht werden");
+		System.out.println("Ci-Admin Projekt ist nicht schwer");
 
 	}
 
